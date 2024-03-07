@@ -1,6 +1,6 @@
 # 🎥 RocketMovies
 
-Projeto front-end desenvolvido para criar notas sobre filmes.
+Projeto front-end desenvolvido em React.js para criar notas sobre filmes.
 
 ## Funcionalidades
 
