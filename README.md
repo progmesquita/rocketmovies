@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🎥 RocketMovies
 
@@ -42,3 +43,7 @@ Instale as dependências do projeto com npm
 ## Etiquetas
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+=======
+# rocketmovies
+Front-end em React.js para um site de notas de filmes.
+>>>>>>> 2714a553a8723ad30037994e132efefbab9e4211
